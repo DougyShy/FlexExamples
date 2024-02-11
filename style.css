@@ -1,0 +1,21 @@
+.imgBox {
+    display: flex;
+    border: solid red 1px;
+}
+
+.boxes img {
+    display: flex;
+    border: solid red 1px;
+    width:50%;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    color: blue;
+    /*background-color: gray;*/
+    border: dashed blue 2px;
+    width: 80%;
+}
+
